@@ -199,4 +199,16 @@ header{
   text-align: center;
 
 }
+  .Myself p{
+  position:absolute;
+  top:10px;
+  left:50px;
+  color:white;
+
+}
+  .Myself{
+  position:relative;
+     text-align:  center;
+background-color:beige;
+  }
 }
