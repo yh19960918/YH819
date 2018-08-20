@@ -191,8 +191,9 @@ header{
     background-color:blue;
   }
   .Myself img{
-  width:100%;
+  width:auto;
     height:300px;
+    max-width:100%;
   }
   .icon{
   width:100%;
