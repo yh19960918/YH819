@@ -189,12 +189,10 @@ header{
   height:350px;
     background-color:blue;
    text-align:center;
+    position:relative;
   }
   .Myself img{
-  width:500px;
-    height:300px;
-    max-width:100%;
-    
+  
   }
   .icon{
   width:100%;
