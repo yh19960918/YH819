@@ -183,7 +183,14 @@ header{
 @media screen and ( max-width:640px ){
   .container{width:100%;
     height:50px;
-  background-color:blue;
-  
+  background-color:beige;
+ }
+  .Myself{width:100%;
+  height:350px;
+    text-align:center;
+  }
+  .Myself img{
+  width:100%;
+    height:300px;
   }
 }
