@@ -187,13 +187,16 @@ header{
  }
   .Myself{width:100%;
   height:350px;
-    text-align:center;
     background-color:blue;
+    position:absolute;
   }
   .Myself img{
-  width:auto;
+  width:100%;
     height:300px;
     max-width:100%;
+     position:absolute;
+top:0;
+  left:0;
   }
   .icon{
   width:100%;
