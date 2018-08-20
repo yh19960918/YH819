@@ -191,7 +191,10 @@ header{
    text-align:center;
     position:relative;
   }
-  .Myself img{
+  .G{
+    position:absolute;
+    left:0;
+    
   width:100%;
   }
   .icon{
