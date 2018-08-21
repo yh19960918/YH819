@@ -221,6 +221,8 @@ header{
   padding-left:0;}
 
   .Gallary{
+    text-align:center;
+    height:800px;
   width:100%;}
   .Gallary img{
   
@@ -235,7 +237,7 @@ header{
   .Gallary img{
   padding:0 0;
   height:100px;
-  width:50%;}
+  width:100%;}
   .PhotoGallary{
   height:800px;
   width:100%;}
