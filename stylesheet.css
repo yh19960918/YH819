@@ -216,8 +216,8 @@ header{
     padding-right:0;
   }
   .Web img{
-  width:100px;
-  height:100px;}
+  width:100%;
+  height:300px;}
 
   .Gallary{
   width:100%;}
