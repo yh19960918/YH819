@@ -232,3 +232,7 @@ header{
   height:500px;
     width:100%;
   }
+  .Gallary img{
+  padding:0 0;
+  height:100px;
+  width:100%;}
